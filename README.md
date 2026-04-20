@@ -31,7 +31,7 @@ I am a final-year IT student at Hanoi University of Mining and Geology. I bridge
 
 ### 🔥 Featured Projects
 
-* **[Prime League Data Analytics]**: 
+* **[Prime League Data Analytics](https://github.com/Quankun1211/premier_pipeline)**: 
     * Built an end-to-end data pipeline to crawl, process, and visualize tournament statistics.
     * Focus on Data Cleaning and exploratory data analysis (EDA) for competitive gaming insights.
 * **[Bếp Việt (VietKitchen) Ecosystem](https://github.com/Quankun1211/Menu_backend)**: 
@@ -50,6 +50,6 @@ I am a final-year IT student at Hanoi University of Mining and Geology. I bridge
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/quankun-it)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quankun1211@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%E1%BB%93ng-qu%C3%A2n-nguy%E1%BB%85n-153b9a39a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenhongquanit204@gmail.com)
 ![Japanese](https://img.shields.io/badge/Japanese-Basic%20(N5--N4)-blue)
